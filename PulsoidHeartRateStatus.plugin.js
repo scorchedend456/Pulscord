@@ -6,13 +6,13 @@ module.exports = (() => {
             name: "PulsoidHeartRateStatus",
             authors: [
                 {
-                    name: "YourName",
+                    name: "Aeson",
                 },
             ],
             version: "1.0.0",
             description: "Integrates Pulsoid with Discord to show your heart rate in your custom status.",
-            github: "https://github.com/YourGitHub/PulsoidHeartRateStatus",
-            github_raw: "https://raw.githubusercontent.com/YourGitHub/PulsoidHeartRateStatus/main/PulsoidHeartRateStatus.plugin.js",
+            github: "https://github.com/scorchedend456/Pulscord",
+            github_raw: "https://github.com/scorchedend456/Pulscord/blob/main/PulsoidHeartRateStatus.js,
         },
         defaultConfig: [],
         changelog: [
