@@ -1,0 +1,2 @@
+# Pulscord
+Pulsoid Discord integration
